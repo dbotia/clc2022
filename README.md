@@ -1,4 +1,6 @@
 # clc2022
+Travis CI  [![Build Status](https://app.travis-ci.com/dbotia/clc2022.svg?branch=main)](https://app.travis-ci.com/dbotia/clc2022)
+
 
 Implementation of a Simple Calculator with the next operations:
 
