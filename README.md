@@ -8,6 +8,7 @@ Travis CI  [![Build Status](https://app.travis-ci.com/dbotia/clc2022.svg?branch=
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=clc2022&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=clc2022)
 
+[![Coverage Status](https://coveralls.io/repos/github/dbotia/clc2022/badge.svg?branch=main)](https://coveralls.io/github/dbotia/clc2022?branch=main)
 
 Implementation of a Simple Calculator with the next operations:
 
