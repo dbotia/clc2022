@@ -20,7 +20,7 @@
 	    });
 	
 	    it("Testing the divide operation", function() {
-	      expect(calculator.divide(3,3)).to.equal(3/3);
+	      expect(calculator.divide(4,4)).to.equal(4/4);
 	    });
 	
 	    it("Testing the divide operation by zero", function() {
